@@ -53,7 +53,7 @@ export const ProductTable = styled.table`
   }
 
   span {
-    display: block
+    display: block;
     margin-top: 5px;
     font-size: 18px;
     font-weight: bold;
@@ -76,6 +76,7 @@ export const ProductTable = styled.table`
     background: none;
     border: 0;
     padding: 6px;
+    cursor: pointer;
   }
 `;
 
